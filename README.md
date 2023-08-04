@@ -2,7 +2,7 @@
 
 - 🌱 Estou cursando Análise e Desenvolvimento de sistemas.
 - 📚 Dedico meus estudos a área de desenvolvimento mobile.
-- 🔭 Atualmente me aprofundando mais em Kotlin.
+- 🔭 Atualmente me aprofundando mais em Kotlin e Java.
 - ⚡ Tenho 20 anos.
 - 🖥️ Apaixonado por tecnologia.
 
