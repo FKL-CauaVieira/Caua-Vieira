@@ -1,9 +1,9 @@
 ### Olá, me chamo Cauã Vieira
 
-- 🌱 Estou cursando o 5º Análise e Desenvolvimento de sistemas.
+- 🌱 Formado em Análise e Desenvolvimento de sistemas.
 - 📚 Dedico meus estudos a área de desenvolvimento web.
 - 💻 Trabalho como desenvolvedor Full Stack Jr.
-- ⚡ Tenho 20 anos.
+- ⚡ Tenho 21 anos.
 - 🖥️ Apaixonado por tecnologia.
 
 
